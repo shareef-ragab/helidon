@@ -64,7 +64,7 @@
         <version.lib.rxjava>2.0.8</version.lib.rxjava>
         <version.lib.spotbugs-annotations>3.1.12</version.lib.spotbugs-annotations>
         <version.lib.surefire.testng>3.0.0-M3</version.lib.surefire.testng>
-        <version.lib.testng>6.13.1</version.lib.testng>
+        <version.lib.testng>7.5.1</version.lib.testng>
         <version.lib.zipkin.junit>2.12.5</version.lib.zipkin.junit>
         <version.lib.bedrock>5.0.11</version.lib.bedrock>
         <version.lib.okhttp3>3.14.1</version.lib.okhttp3>
